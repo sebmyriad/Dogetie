@@ -24,7 +24,7 @@ class App extends PureComponent {
     goal: 9000000,
     goals: [
       {
-        amount: 8000,
+        amount: 10000,
         title: 'Donator',
         includes: ['Free DOGE Tie', '(Fill in form on reddit)'],
       },
